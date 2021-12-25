@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Amar - I do many things that involves hacking! 
 - 👀 I’m interested in Wine, Memes, Piano, Ballet, Badminton and Security
 - 🌱 I’m currently working in Immersive Labs as a security engineer
+- ℹ️ Fun facts: 
 
 <!---
 AKhan1337/AKhan1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
