@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Amar - I do many things that involves hacking! 
-- 👀 I’m interested in Wine, Memes, Piano, Ballet, Badminton and Security.
-- 🌱 I’m currently working in Immersive Labs as a security engineer.
 - ℹ️ Fun facts: Honey is only sticky when it’s not in your mouth.
 
 <!---
